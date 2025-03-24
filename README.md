@@ -2,10 +2,10 @@
 
 ---
 
-### **NAME:**  
-### **DEPARTMENT:**  
-### **ROLL NO:**  
-### **DATE OF EXPERIMENT:**  
+### **NAME: JEEVIKA R**  
+### **DEPARTMENT: BE CSE**  
+### **ROLL NO: 212224040137**  
+### **DATE OF EXPERIMENT: 24-03-2025**  
 
 ---
 
@@ -122,6 +122,9 @@ Accel: X=0.02g, Y=-0.01g, Z=1.00g | Gyro: X=0.05°/s, Y=-0.02°/s, Z=0.01°/s
 Accel: X=0.03g, Y=-0.02g, Z=1.01g | Gyro: X=0.06°/s, Y=-0.03°/s, Z=0.02°/s
 ...
 ```
+![image](https://github.com/user-attachments/assets/37871b93-22c1-4cda-99d7-654cc928171a)
+
+
 ---
 
 ## **RESULT:**  
